@@ -21,7 +21,7 @@
 <li>Ver detalle de topicos</li>
 </ul>
 
-h1>Tecnologías usadas</h1>
+<h1>Tecnologías usadas</h1>
 <ul>
     <li>Java (SpringBoot)</li>
     <li>SQL (MySQL)</li>
