@@ -7,12 +7,12 @@
     en Java SpringBoot usando las mejores prácticas en diseño de software.
 </p>
 
-<h1>Estado del proyecto</h1>
+<h1>:dart: Estado del proyecto</h1>
  <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-<h1>Caracteristicas del API</h1>
+<h1>:heavy_check_mark: Caracteristicas del API</h1>
 <ul>
     <li>Registro de cursos</li>
     <li>Registro de topicos</li>
@@ -21,7 +21,7 @@
 <li>Ver detalle de topicos</li>
 </ul>
 
-<h1>Tecnologías usadas</h1>
+<h1> :hammer: Tecnologías usadas</h1>
 <ul>
     <li>Java (SpringBoot)</li>
     <li>SQL (MySQL)</li>
